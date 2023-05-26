@@ -10,6 +10,6 @@ Predicting Titanic survival using machine learning. Built a TensorFlow linear cl
 ```
 ## Clone The Project
 ```bash
-
+ https://github.com/vedant1003k/Predicting-Passenger-Survival-A-Linear-Classifier-Model.git
 ```
 
